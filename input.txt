@@ -1,0 +1,16 @@
+bolilo p soman 50;
+bolilo q soman 25;
+
+bolilo total somon p lagajog q;
+dekhain total;
+
+ghuribar (i soman q;i>5;i lagabiyog lagabiyog)
+{
+  dekhain total;
+}
+
+bolilo MUL soman p lagagun q;
+dekhain MUL;
+dekhain Total lagajog MUL;
+
+
